@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "tool": "LinuxWays SecureCheck",
+    "version": "0.1",
+    "distro": "unknown",
+    "system": {
+      "os": "Android",
+      "hostname": "localhost",
+      "kernel": "16",
+      "distribution": "unknown",
+      "timestamp": "2026-10-15T01:14:35.848142"
+    }
+  },
+  "summary": {
+    "total": 1,
+    "critical": 0,
+    "high": 0
+  },
+  "findings": [
+    {
+      "category": "SYSTEM",
+      "severity": "INFO",
+      "title": "System Info (UNKNOWN)",
+      "description": "Auditing localhost",
+      "recommendation": "Review info"
+    }
+  ]
+}
